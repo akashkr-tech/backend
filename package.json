@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a backend",
+  "repository": {
+    "type": "git",
+    "url": "javascript,backend"
+  },
+  "license": "ISC",
+  "author": "Akash",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
